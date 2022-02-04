@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Montserrat:wght@600&family=Source+Code+Pro:wght@800&display=swap');
+
+
+body{
+font-family: 'Montserrat', sans-serif;}
+
+
+
+:root {
+
+--primary-color: #38bdf8;
+}
+
+a{
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    }
+    
+    .link{    background-color: #38bdf8;
+    margin: 1rem 1rem 1rem 0rem;
+    border-radius: 0.5rem;
+    color: white;
+    display: block;
+    max-width: 140px;
+    }
+    .secondary-link {
+        color: var(--primary-color);
+        border-radius: 0.5rem;
+        boder: 1px solid var
+        var(--primary-color;
+}
+
+
+}
+
+.PINK {
+    color: #38bdf8;
+}
+.shade-purple{
+    color: #38bdf8;
+    text-align: center;
+}
+
+.hero{
+    color: #38bdf8;
+    text-align: center;
+}
+
+ .hero-img {
+
+    max-width: 350x;
+    display: block;
+margin: auto;
